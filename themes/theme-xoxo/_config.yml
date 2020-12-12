@@ -28,7 +28,12 @@ scripts:
 # switch
 show_excerpt: true
 show_date: true
-#footer
+
+# search ?
+google_analytics: 何明胜,何明胜的个人网站,技术流
+baidu_analytics: 何明胜,何明胜的个人网站,技术流
+
+# footer
 index_page: /
 main_site: https://humsen.github.io/
 github: https://github.com/Humsen
