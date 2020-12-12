@@ -32,7 +32,3 @@ show_date: true
 index_page: /
 main_site: https://humsen.github.io/
 github: https://github.com/Humsen
-
-# Search
-# local_search:
-#  enable: true

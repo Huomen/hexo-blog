@@ -104,8 +104,7 @@ deploy:
   
 # Search
 ## https://github.com/KevinOfNeu/hexo-theme-xoxo/issues/2
+## https://juejin.cn/post/6844903593351315470
 #search:
 #  path: search.xml
 #  field: post
-#  format: html
-#  limit: 10000
