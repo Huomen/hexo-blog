@@ -101,3 +101,11 @@ deploy:
   type: git
   repo: https://github.com/Humsen/humsen.github.io.git
   branch: master
+  
+# Search
+## https://github.com/KevinOfNeu/hexo-theme-xoxo/issues/2
+#search:
+#  path: search.xml
+#  field: post
+#  format: html
+#  limit: 10000
