@@ -1,7 +1,8 @@
 ---
 title: 去掉 win10 磁盘盘符重复显示
 date: 2020-07-09 10:12:39
-tags:
+categories: Windows
+tags: 磁盘盘符
 ---
 
 **1、** 快捷键`win+R`进入运行窗口，然后输入`regedit`，在地址栏输入`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\DelegateFolders`，即可定位到显示磁盘盘符的位置

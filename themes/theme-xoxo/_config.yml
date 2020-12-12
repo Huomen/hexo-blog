@@ -5,10 +5,10 @@ language: zh-Hans
 # main menu navigation
 menu:
   home: /
-  archives: /archives
-  tags: /tags
-  categories: /categories
   search: /search
+  archives: /archives
+  categories: /categories
+  tags: /tags
   about: https://github.com/Humsen/hexo-website
 
 # Miscelaneous
