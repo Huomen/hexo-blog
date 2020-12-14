@@ -3,7 +3,7 @@ title: Vmware CentOS 安装 VMware Tools 设置共享文件夹
 date: 2020-12-12 15:10:29
 categories: 虚拟机
 tags:
- - CentOS
+ - Centos
  - 虚拟机
 ---
 

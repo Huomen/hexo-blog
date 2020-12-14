@@ -1,7 +1,7 @@
 ---
 title: 腾讯云 centos7设置Tomcat8.5开机自启动
 date: 2020-12-12 15:34:59
-categories: Centos
+categories: Linux
 tags:
  - Centos
  - Tomcat

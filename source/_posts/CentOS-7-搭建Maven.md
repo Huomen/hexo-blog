@@ -1,7 +1,7 @@
 ---
 title: CentOS 7 搭建Maven
 date: 2020-12-12 15:25:05
-categories: Centos
+categories: Linux
 tags:
  - Maven
  - Centos

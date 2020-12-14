@@ -1,7 +1,8 @@
 ---
 title: 删除centos 更新后多余的启动项
 date: 2020-12-12 15:14:49
-categories: Centos
+categories: Linux
+tags:
  - Centos
 ---
 
