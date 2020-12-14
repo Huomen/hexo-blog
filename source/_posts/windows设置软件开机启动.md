@@ -1,7 +1,10 @@
 ---
 title: windows设置软件开机启动
 date: 2020-12-12 15:08:10
+categories: Windows
 tags:
+ - Windows
+ - 开机启动
 ---
 
 **1.打开windows资源管理**，在地址栏输入以下链接

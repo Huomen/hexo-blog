@@ -1,7 +1,10 @@
 ---
 title: windows 配置java环境变量
 date: 2020-12-11 17:35:22
-tags: Java
+categories: Windows
+tags:
+ - Windows
+ - Java
 ---
 
 **变量设置参数如下：**

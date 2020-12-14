@@ -1,7 +1,10 @@
 ---
 title: tomcat在centos启动缓慢解决
 date: 2020-12-12 15:04:46
+categories: Tomcat
 tags:
+ - Tomcat
+ - Centos
 ---
 
  在`$TOMCAT_HOME/bin/catalina.sh`最前面加一句

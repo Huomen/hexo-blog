@@ -1,7 +1,10 @@
 ---
 title: 虚拟机配置 Centos NAT模式
 date: 2020-12-12 15:17:45
+categories: 虚拟机
 tags:
+ - Centos
+ - 虚拟机
 ---
 
 **1、配置vmware**

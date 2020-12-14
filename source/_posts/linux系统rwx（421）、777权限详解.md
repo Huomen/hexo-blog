@@ -1,7 +1,9 @@
 ---
 title: linux系统rwx（421）、777权限详解
 date: 2020-12-12 15:31:16
+categories: Linux
 tags:
+ - Linux
 ---
 
 **常用的linux文件权限如下：**

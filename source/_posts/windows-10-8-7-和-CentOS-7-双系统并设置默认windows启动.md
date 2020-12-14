@@ -1,7 +1,10 @@
 ---
 title: windows 10/8/7 和 CentOS 7 双系统并设置默认windows启动
 date: 2020-12-12 15:26:59
+categories: Windows
 tags:
+ - Windows
+ - 双系统
 ---
 
 **安装结果：**

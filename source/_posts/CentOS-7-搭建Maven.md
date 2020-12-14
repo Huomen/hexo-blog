@@ -1,7 +1,10 @@
 ---
 title: CentOS 7 搭建Maven
 date: 2020-12-12 15:25:05
+categories: Centos
 tags:
+ - Maven
+ - Centos
 ---
 
 **1、选择要放maven的位置，下载安装包**

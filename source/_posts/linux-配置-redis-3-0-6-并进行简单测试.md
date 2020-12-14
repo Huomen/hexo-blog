@@ -1,7 +1,10 @@
 ---
 title: linux  配置 redis 3.0.6 并进行简单测试
 date: 2020-12-12 15:36:14
+categories: Redis
 tags:
+ - Linux
+ - Redis
 ---
 
 1、下载redis GZ压缩包，[点击下载](http://download.redis.io/releases/redis-3.0.6.tar.gz "点击下载")

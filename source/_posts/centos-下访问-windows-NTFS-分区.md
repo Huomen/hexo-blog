@@ -1,7 +1,10 @@
 ---
 title: centos 下访问 windows NTFS 分区
 date: 2020-12-12 15:29:55
+categories: Centos
 tags:
+ - windows
+ - Centos
 ---
 
 **1、下载安装**

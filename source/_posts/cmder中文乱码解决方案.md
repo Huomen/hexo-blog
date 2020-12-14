@@ -1,7 +1,10 @@
 ---
 title: cmder中文乱码解决方案
 date: 2020-12-12 15:23:53
+categories: 工具软件
 tags:
+ - Cmder
+ - 乱码
 ---
 
 **1、打开cmder，在右下角选择`菜单->setting`，或者快捷键 `win+alt+P`**

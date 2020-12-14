@@ -1,7 +1,10 @@
 ---
 title: Java Mail 发送邮件实例
 date: 2020-12-12 15:39:02
+categories: Java
 tags:
+ - Java
+ - Email
 ---
 
 首先下载`javax.mail.jar`包，[点击下载]

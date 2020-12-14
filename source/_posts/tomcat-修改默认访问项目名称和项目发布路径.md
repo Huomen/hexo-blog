@@ -1,7 +1,10 @@
 ---
 title: tomcat 修改默认访问项目名称和项目发布路径
 date: 2020-12-12 15:39:32
+categories: Tomcat
 tags:
+ - Tomcat
+ - 发布
 ---
 
 **1、修改项目发布路径**

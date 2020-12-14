@@ -1,7 +1,8 @@
 ---
 title: 删除centos 更新后多余的启动项
 date: 2020-12-12 15:14:49
-tags: Centos
+categories: Centos
+ - Centos
 ---
 
 在CentOS更新后,并不会自动删除旧内核。所以在启动选项中会有多个内核选项,可以手动使用以下命令删除多余的内核:

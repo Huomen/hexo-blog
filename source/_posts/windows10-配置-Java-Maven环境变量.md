@@ -1,7 +1,10 @@
 ---
 title: windows10 配置 Java+Maven环境变量
 date: 2020-12-12 15:15:30
-tags: Windows
+categories: Windows
+tags:
+ - Windows
+ - Maven
 ---
 
 **1、Java 环境变量**

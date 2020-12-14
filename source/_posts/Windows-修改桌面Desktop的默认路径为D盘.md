@@ -1,7 +1,10 @@
 ---
 title: Windows 修改桌面Desktop的默认路径为D盘
 date: 2020-12-12 15:41:21
+categories: Windows
 tags:
+ - Windows
+ - 桌面路径
 ---
 
 **1、**点击`开始菜单`→`运行`，输入“regedit”，打开注册表编辑器。

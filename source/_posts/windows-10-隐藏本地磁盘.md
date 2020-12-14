@@ -1,7 +1,10 @@
 ---
 title: windows 10 隐藏本地磁盘
 date: 2020-12-11 17:51:06
-tags: Windows
+categories: Windows
+tags:
+ - Windows
+ - 磁盘隐藏
 ---
 
 1、**打开本地组策略编辑器**

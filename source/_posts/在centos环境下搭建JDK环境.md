@@ -1,7 +1,10 @@
 ---
 title: 在centos环境下搭建JDK环境
 date: 2020-12-12 15:06:46
+categories: Centos
 tags:
+ - JDK
+ - Centos
 ---
 
 **1、上传、解压**

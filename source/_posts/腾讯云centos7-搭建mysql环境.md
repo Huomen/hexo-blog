@@ -1,7 +1,10 @@
 ---
 title: 腾讯云centos7 搭建mysql环境
 date: 2020-12-12 15:40:55
+categories: Mysql
 tags:
+ - Centos
+ - Mysql
 ---
 
 **1、安装mysql**
